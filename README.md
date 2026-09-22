@@ -3,7 +3,7 @@
 | № Лабы | Ссылка на репозиторий |
 |:------:|:---------------------:|
 | Лаба 1 |https://github.com/MoruginAlexander/MoruginAlexander.github.io|
-| Лаба 2 |                       |
+| Лаба 2 |https://github.com/MoruginAlexander/lab2|
 | Лаба 3 |                       |
 | Лаба 4 |                       |
 | Лаба 5 |                       |
