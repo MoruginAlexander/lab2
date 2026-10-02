@@ -1,3 +1,4 @@
+/* ===== Общие стили ===== */
 * {
   box-sizing: border-box;
 }
@@ -10,8 +11,7 @@ body {
   line-height: 1.5;
 }
 
-/* Шапка */
-
+/* ===== Шапка ===== */
 .site-header {
   width: 100%;
   background-color: #7fa7d8;
@@ -72,8 +72,7 @@ body {
   color: #0b2e59;
 }
 
-/* Контент */
-
+/* ===== Контент ===== */
 .content {
   max-width: 960px;
   margin: 0 auto;
@@ -96,8 +95,7 @@ body {
   padding-left: 20px;
 }
 
-/* Таблица */
-
+/* ===== Таблица ===== */
 .data-table {
   width: 100%;
   border-collapse: collapse;
@@ -124,8 +122,7 @@ body {
   background-color: #e6eef8;
 }
 
-/* Форма */
-
+/* ===== Форма (общие стили второй страницы) ===== */
 .contact-form {
   max-width: 500px;
 }
@@ -161,8 +158,7 @@ body {
   background-color: #365a82;
 }
 
-/* Подвал */
-
+/* ===== Подвал ===== */
 .site-footer {
   width: 100%;
   margin-top: 20px;
@@ -177,4 +173,30 @@ body {
 
 .copyright {
   margin: 0;
+}
+
+/* ===== Стили с первой страницы ===== */
+.spacer {
+  height: 1200px;
+}
+
+.garkusha-block {
+  margin-top: 60px;
+  margin-bottom: 80px;
+  text-align: center;
+}
+
+.garkusha-block img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+}
+
+.garkusha-caption {
+  font-size: 24px;
+  font-weight: bold;
+  color: darkred;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
